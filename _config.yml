@@ -3,6 +3,7 @@
 # Name of website
 title: Hanaa Abdel Khalek
 subtitle: test
+use-site-title: true
 
 # Short description of your site
 description: Lebanese Artist
