@@ -5,14 +5,8 @@ layout: null
 @import url("pygment_highlights.css");
 
 /* --- General --- */
-html {
-  direction: rtl;
-  font-size: 100%;
-  height: 100%;
-}
 
 body {
-  direction: rtl;
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
   color: #404040;
@@ -341,6 +335,7 @@ footer .theme-by {
 }
 
 .post-preview .post-title {
+  direction: rtl;
   font-size: 30px;
   margin-top: 0;
 }
