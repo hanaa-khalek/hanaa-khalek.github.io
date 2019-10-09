@@ -1,8 +1,8 @@
 ---
 layout: post
 image: img/Radio_Liban.jpg
-title: مقابلة في إذاعة صوت لبنان
-subtitle: Radio Interview on Voice of Lebanon
+title: مقابلة في إذاعة لبنان
+subtitle: Interview on Radio Liban
 tags: [Radio, Book-signing]
 comments: true
 ---
