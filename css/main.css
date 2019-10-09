@@ -7,13 +7,10 @@ layout: null
 /* --- General --- */
 
 body {
-  direction: rtl;
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
   color: #404040;
-  position: absolute;
-  left: 50%;
-  /*position: relative;*/
+  position: relative;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
