@@ -1,7 +1,7 @@
 ---
 layout: post
 title: مقابلة في إذاعة صوت لبنان
-subtitle: Interview on Radio Voice of Lebanon
+subtitle: Radio Interview on "Voice of Lebanon"
 tags: [Radio, Book-signing]
 comments: true
 ---
