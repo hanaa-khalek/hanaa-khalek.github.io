@@ -346,7 +346,6 @@ footer .theme-by {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  direction: rtl;
   color: #808080;
   font-size: 18px;
   font-style: italic;
@@ -356,6 +355,7 @@ footer .theme-by {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .post-entry-container {
+  direction: rtl;
   display: inline-block;
   width: 100%;
 }
