@@ -558,6 +558,7 @@ footer .theme-by {
 }
 
 .header-section.has-img .no-img {
+  direction: rtl;
   margin-top: 0;
   background-color: #FCFCFC;
   margin: 0 0 40px;
@@ -566,26 +567,32 @@ footer .theme-by {
 }
 /* Many phones are 320 or 360px, so make sure images are a proper aspect ratio in those cases */
 .header-section.has-img .intro-header.no-img {
+  direction: rtl;
   display: none;
 }
 @media only screen and (max-width: 365px) {
   .header-section.has-img .intro-header.no-img {
+    direction: rtl;
     display: block;
   }
   .intro-header.big-img {
+    direction: rtl;
     width: 100%;
     height: 220px;
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading {
+    direction: rtl;
     display: none;
   }
   .header-section.has-img .big-img {
+    direction: rtl;
     margin-bottom: 0;
   }
 }
 @media only screen and (max-width: 325px) {
   .intro-header.big-img {
+    direction: rtl;
     height: 200px;
   }
 }
