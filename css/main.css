@@ -168,6 +168,7 @@ img {
 }
 
 .navbar-custom .avatar-container {
+  direction: ltr;
   position: absolute;
   left: 50%;
   width: 50px;
