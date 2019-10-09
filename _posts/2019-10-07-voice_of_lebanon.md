@@ -1,9 +1,8 @@
 ---
 layout: post
 title: مقابلة في إذاعة صوت لبنان
-subtitle: Interview on Radio Lebanon
-gh-badge: [Radio, Book-Signing]
-tags: [Radioo]
+subtitle: Interview on Radio Voice of Lebanon
+tags: [Radio, Book-signing]
 comments: true
 ---
 
