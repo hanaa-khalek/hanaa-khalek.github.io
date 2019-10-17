@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: post
 title: مقابلة في إذاعة لبنان
 #subtitle: Interview on Radio Liban
 tags: [Radio, Book-signing]
