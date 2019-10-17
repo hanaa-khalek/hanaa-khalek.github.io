@@ -5,5 +5,4 @@ title: مقابلة على قناة اليوم مع الناقد أحمد بزو
 tags: [Tv, Book-signing]
 comments: true
 ---
-
 [![kanat-al-yawm](../img/kanat-al-yawm.png){: .center-block :}](https://www.youtube.com/watch?v=DSIGIcQCNac&t=59s)
