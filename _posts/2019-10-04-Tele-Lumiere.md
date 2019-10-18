@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Télé Lumière مقابلة على تلفزيون 
-#subtitle: Interview on Kanat al yawm
+title:  مقابلة على تلفزيون Télé Lumière
 tags: [Tv, Book-signing]
 comments: true
 ---
