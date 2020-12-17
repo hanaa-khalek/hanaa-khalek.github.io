@@ -8,8 +8,6 @@ subtitle: Null
 ## الجمهورية (11/12/2020) [[PDF](/articles/2020-12-11-aljoumhouria.pdf)] [[Link](https://www.aljoumhouria.com/ar/news/567253/هناء-عبد-الخالق-الفن-هو-الصمود-الابداعي?fbclid=IwAR3w_cg_SKnvJgIxgtNG4vNrkUE2morIDA_C7fzc5HOy2Y0ZpUDkITUKB-c)]
 ## جريدة البناء (01/12/2020) [[PDF](/articles/2020-12-01-Binaa.pdf)] [[Link](https://www.al-binaa.com/archives/278761)]
 
-
-
 ## نداء الوطن (30/07/2020) [[PDF](/articles/2020-07-30-nidaaalwatan.pdf)] [[Link](https://www.nidaalwatan.com/article/26585-مساحة-حرةجزر-لبنان-ينتظر-حركة-المد)]
 
 

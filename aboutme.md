@@ -4,9 +4,12 @@ title: عني
 subtitle: Null
 ---
 
-## تفاصيل
+<html>
 
-## تاريخ
+<body>
+    <iframe src="Hanaa_CV.pdf#toolbar=0" width="100%"
+        height="1500px">
+    </iframe>
+</body>
 
-- 1999: تفاصيل
-- 2001: تفاصيل
+</html>
