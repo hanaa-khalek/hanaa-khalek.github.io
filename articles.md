@@ -22,6 +22,15 @@ subtitle: Null
 ## جريدة البناء (10/10/2019) [[PDF](/articles/2019-10-10-Binaa.pdf)] [[Link](https://www.al-binaa.com/archives/article/221092)]
 ## Trendlines موقع (04/12/2019) [[PDF](/articles/2019-12-04-trendlines.pdf)] [[Link](https://www.trendlines.net/رؤى-محدبة-لهناء-عبد-الخالق-واقع-تهزّه/)]
 
+## وكالة أنباء اسيا (16/08/2019) [[PDF](/articles/2019-08-16-asiaa.pdf)] [[Link](http://www.asiaa-press.com/2019/08/16/معرض-رؤى-محدبة-د-هناء-عبد-الخالق/?fbclid=IwAR3Cx-OrxGV0kysRGuNkMxPHQnL1QhFSI91G-IOcWjezwNrLhAKbCSxeLUM)]
+
+## وكالة أنباء اسيا (13/08/2019) [[PDF](/articles/2019-08-13-asiaa.pdf)] [[Link](http://www.asiaa-press.com/2019/08/13/فن-التجهيز-للفنانة-التشكيلية-اللبنان/?fbclid=IwAR1634Q8EOWYpRE7DwNGLjPqtMDbJnENFqF6f5K2z09GFxpRzpHVSh0Rs74)]
+
+##  اللواء (14/05/2019) [[PDF](/articles/2019-05-14-liwaa.pdf)] [[Link](http://aliwaa.com.lb/ثقافة/معرض-الفنانة-هناء-عبد-الخالق-الانعكاسات-التشكيلية-الأخرى-لمسارات-الضوء/)]
+## رحاب الجزائر (24/07/2019) [[PDF](/articles/2019-07-24-rihabeldjazair.pdf)] [[Link](https://www.rihabeldjazair.com/2019/07/24/اصدار-جديد-للدكتورة-هناء-عبد-الخالق/?fbclid=IwAR0Oqe9G9JwSKIeymLKiQSmJvn_bOZ1VjhhjRGsxVMjXNobqGNiB4rrDeVE)]
+
+## Libnanews موقع (10/04/2019) [[PDF](/articles/2019-04-10-libnanews.pdf)] [[Link](https://libnanews.com/exposition-exode-hanaa-abdel-khaled/?fbclid=IwAR3MdC4RnGI36ibUC_mUX0cqOPeYTQcNXBZq7FaTnE7lpK860LgpYsqpOwg)]
+
 ## Instragram موقع (08/04/2019) [[PDF](/articles/2019-04-08-instagram.pdf)] [[Link](https://www.instagram.com/p/Bv_5uYlAflZ/?igshid=1sliekdhmncub)]
 ## الفن (08/04/2019) [[PDF](/articles/2019-04-08-alfan.pdf)] [[Link](https://www.elfann.com/news/show/1239376/معرض-للفنانة-هناء-عبد-الخالق-بعنوان-رؤى-محدّبة-إكز)]
 
